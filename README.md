@@ -1,2 +1,2 @@
 # edemo
-Demos in eralng
+Demos in erlang
